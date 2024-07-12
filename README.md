@@ -29,7 +29,7 @@ These experiments often spark research projects, hackathons, or other innovative
 
 This collaborative approach not only addresses immediate needs but also drives continuous innovation and improvement. We look forward to your contributions and to advancing XR technologies together!
 
-For more information, visit our [website](#https://www.xrvalley.be/).
+For more information, visit our [website](https://www.xrvalley.be/).
 
 ---
 
